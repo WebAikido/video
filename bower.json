@@ -1,0 +1,21 @@
+{
+  "name": "video_project",
+  "description": "project on video bootstrap 4",
+  "main": "",
+  "authors": [
+    "WebAikido <aleksei.maslukov@yandex.ru>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/WebAikido/gulp_sborka",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/assets/src/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta"
+  }
+}
